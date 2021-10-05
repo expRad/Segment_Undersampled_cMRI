@@ -4,7 +4,7 @@ This repository contains instructions and source code to reproduce the results p
 
 > A data-driven semantic segmentation model for direct cardiac functional analysis based on undersampled radial MR cine series.  
 > Wech T, Ankenbrand MJ, Bley TA, Heidenreich JF.  
-> Magnetic Resonance in Medicine *Early view* [DOI](https://doi.org/10.1002/mrm.29017)
+> Magnetic Resonance in Medicine. 2021. *Early view*. [DOI](https://doi.org/10.1002/mrm.29017)
 
 Please cite this work if you use the content of this repository in your project.
 
